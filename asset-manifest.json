@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/humanoid/static/css/main.a142fb8a.chunk.css",
+    "main.js": "/humanoid/static/js/main.921a264d.chunk.js",
+    "main.js.map": "/humanoid/static/js/main.921a264d.chunk.js.map",
+    "runtime~main.js": "/humanoid/static/js/runtime~main.1735c3cb.js",
+    "runtime~main.js.map": "/humanoid/static/js/runtime~main.1735c3cb.js.map",
+    "static/js/2.b67fbdca.chunk.js": "/humanoid/static/js/2.b67fbdca.chunk.js",
+    "static/js/2.b67fbdca.chunk.js.map": "/humanoid/static/js/2.b67fbdca.chunk.js.map",
+    "index.html": "/humanoid/index.html",
+    "precache-manifest.dec894d7784adabb218486c84b08ae4e.js": "/humanoid/precache-manifest.dec894d7784adabb218486c84b08ae4e.js",
+    "service-worker.js": "/humanoid/service-worker.js",
+    "static/css/main.a142fb8a.chunk.css.map": "/humanoid/static/css/main.a142fb8a.chunk.css.map"
+  }
+}
